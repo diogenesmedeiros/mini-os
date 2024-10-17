@@ -1,0 +1,2 @@
+make run -> inicializa o sistema
+make clean -> limpa os arquivos gerados
